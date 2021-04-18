@@ -1,8 +1,13 @@
 ### Hi there 👋
+현재에 안주하지 않고 노력하는 개발자 이남경입니다.
 
+잘부탁드립니다.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nk3466)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nk3466/nk3466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nk3466)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
